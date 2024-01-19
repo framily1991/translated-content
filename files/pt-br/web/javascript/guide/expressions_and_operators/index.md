@@ -11,16 +11,16 @@ Este artigo descreve expressões e operadores de JavaScript, incluindo operadore
 
 O JavaScript possui os tipos de operadores a seguir. Esta seção descreve os operadores e contém informações sobre precedência de operadores.
 
-- [Operadores de atribuição](/pt-BR/docs/Web/JavaScript/Guide/Expressions_and_Operators#operador_atribuicao)
-- [Operadores de comparação](/pt-BR/docs/Web/JavaScript/Guide/Expressions_and_Operators#operador_comparacao)
-- [Operadores aritméticos](/pt-BR/docs/Web/JavaScript/Guide/Expressions_and_Operators#operadores_aritmeticos)
-- [Operadores bit a bit](/pt-BR/docs/Web/JavaScript/Guide/Expressions_and_Operators#operadores_bit_a_bit)
-- [Operadores lógicos](/pt-BR/docs/Web/JavaScript/Guide/Expressions_and_Operators#operadores_logicos)
-- [Operadores de string](/pt-BR/docs/Web/JavaScript/Guide/Expressions_and_Operators#operadores_string)
-- [Operador condicional (ternário)](/pt-BR/docs/Web/JavaScript/Guide/Expressions_and_Operators#operador_condicional_ternario)
-- [Operador vírgula](/pt-BR/docs/Web/JavaScript/Guide/Expressions_and_Operators#operador_virgula)
-- [Operadores unário](/pt-BR/docs/Web/JavaScript/Guide/Expressions_and_Operators#operadores_unario)
-- [Operadores relacionais](/pt-BR/docs/Web/JavaScript/Guide/Expressions_and_Operators#operador_virgula)
+- [Operadores de atribuição](#operadores_de_atribuição)
+- [Operadores de comparação](#operadores_de_comparação)
+- [Operadores aritméticos](#operadores_aritméticos)
+- [Operadores bit a bit](#operadores_bit_a_bit)
+- [Operadores lógicos](#operadores_lógicos)
+- [Operadores de string](#operadores_de_string)
+- [Operador condicional (ternário)](#operador_condicional_ternário)
+- [Operador vírgula](#operador_vírgula)
+- [Operadores unário](#operadores_unário)
+- [Operadores relacionais](#operadores_relacionais)
 
 O JavaScript possui tanto operadores _binários_ quanto _unários_ e um operador ternário, o operador condicional. Um operador binário exige dois operandos, um antes do operador e outro depois:
 
